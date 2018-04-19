@@ -1,0 +1,25 @@
+html, body {
+	background-color:#323645;
+}
+
+.main {
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+#score {
+	font-size:8em;
+	color:#707070;
+	text-align: center;
+}
+
+#description {
+	font-size:4em;
+	color:#707070;
+	text-align: center;
+}
+
+#recommendations {
+	font-size:4em;
+	color:#707070;
+	text-align: center;
+}
